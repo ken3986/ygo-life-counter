@@ -1,0 +1,13 @@
+h1 {
+  color: #333
+}
+
+.numbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.numbers button{
+  width: 33%;
+}
